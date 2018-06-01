@@ -67,6 +67,6 @@
         <param name="ios-package" value="ZipPlugin"/>
       </feature>
     </config-file>
-    <framework src="libz.dylib" />
+    <framework src="libz.tbd" weak="true" />
   </platform>
 </plugin>
